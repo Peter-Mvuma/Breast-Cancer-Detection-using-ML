@@ -53,4 +53,5 @@ The model correctly classified 39/42 malignant and 69/72 benign tumors, with siz
 
 '''bash
 pip install -r requirements.txt
+
 jupyter notebook
