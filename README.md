@@ -14,5 +14,7 @@ This repository contains my implementation of a machine learning classifier to d
 ## 2. Repository structure
 
 ├── Breast-Cancer-detection.ipynb               # Main Jupyter notebook
+
 ├── README.md                                   # Project description
+
 └── requirements.txt                            # Key Python dependencies
